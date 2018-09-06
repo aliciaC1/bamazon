@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "__________________________________________________________ Amazon-Like storefront web application using MySQL. The app will take orders from customers and deplete stock from store's inventory.  This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package. The application presents two interfaces: customer and manager.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "terminal-kit": "^1.26.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliciaC1/bamazon.git"
+  },
+  "author": "Alicia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliciaC1/bamazon/issues"
+  },
+  "homepage": "https://github.com/aliciaC1/bamazon#readme"
+}
