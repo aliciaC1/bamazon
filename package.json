@@ -4,9 +4,17 @@
   "description": "__________________________________________________________ Amazon-Like storefront web application using MySQL. The app will take orders from customers and deplete stock from store's inventory.  This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package. The application presents two interfaces: customer and manager.",
   "main": "bamazonCustomer.js",
   "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-table": "^0.3.1",
+    "figlet": "^1.2.0",
     "inquirer": "^6.2.0",
+    "mssql": "^4.1.0",
     "mysql": "^2.16.0",
-    "terminal-kit": "^1.26.2"
+    "node-emoji": "^1.8.1",
+    "sequelize": "^4.38.0",
+    "tedious": "^2.2.4",
+    "terminal-kit": "^1.26.2",
+    "tty-table": "^2.6.8"
   },
   "devDependencies": {},
   "scripts": {
