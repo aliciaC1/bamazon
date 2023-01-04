@@ -13,7 +13,7 @@
     "node-emoji": "^1.10.0",
     "sequelize": "^5.15.1",
     "tedious": "^2.7.1",
-    "terminal-kit": "^1.28.0",
+    "terminal-kit": "^3.0.0",
     "tty-table": "^2.7.0"
   },
   "devDependencies": {},
